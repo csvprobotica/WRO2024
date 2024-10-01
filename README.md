@@ -1,10 +1,10 @@
 ## RoboSport Team's WRO 2024
-Robotic sports teams that are in the national robotics olympics. who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
+Robotic Sports Teams that are in the national robotics olympics. who represent Colegio San Vicente de Paúl, Santiago in this competition.
 
 Engineering materials
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
+This repository contains engineering materials of a robots model participating in the WRO RoboSport competition in the season 2024.
 
 ## Content
 
