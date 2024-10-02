@@ -9,6 +9,12 @@ GodZilla team is integrated by Felipe Zambrano and Jacomo Pinzón, who represent
   <img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/t-photos/1_GodZilla_Team.jpg" alt="Texto alternativo" width="500"/>
 </div>
 
+## Content
+
+* [`src`](https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/src/) contains code of control software for all components which were programmed to participate in the competition.
+* [`t-photos`](https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/t-photos/) contain photo of the team (an official photo with all team members).
+* [`v-photos`](https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/) contains 6 photos of the robot (from every side, from top and bottom).
+
 ## Photographs of Both Bobots
 This section presents all the angles of the robot.
 
