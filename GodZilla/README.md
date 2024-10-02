@@ -32,16 +32,16 @@ This section presents all the angles of the robot.
 
 <table>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Front.jpg" alt="Front" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Back.jpg" alt="Back" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/1_FRONT_A.jpg" alt="Front" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/2_BACK_A.jpg" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Left.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Right.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/3_LEFT_A.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/4_RIGHT_A.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Top.jpg" alt="Top" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Bottom.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/5_TOP_A.jpg" alt="Top" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/6_BOTTOM_A.jpg" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
@@ -50,16 +50,16 @@ This section presents all the angles of the robot.
 
 <table>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Front.jpg" alt="Front" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Back.jpg" alt="Back" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/1_FRONT_B.jpg" alt="Front" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/2_BACK_B.jpg" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Left.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Right.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/3_LEFT_B.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/4_RIGHT_B.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Top.jpg" alt="Top" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Bottom.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/5_TOP_B.jpg" alt="Top" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/6_BOTTOM_B.jpg" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
