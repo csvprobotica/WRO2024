@@ -55,7 +55,7 @@ This section presents all the angles of the robot.
   </tr>
   <tr>
     <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/B/3_LEFT_B.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/A/4_RIGHT_B.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/B/4_RIGHT_B.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/GodZilla/v-photos/B/5_TOP_B.jpg" alt="Top" width="100"/></td>
