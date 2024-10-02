@@ -1,9 +1,9 @@
 Team's photos
 ====
 
-This directory contains two pictures of our team for this competition, one normal and the other funny.
+This directory contains photographs of the competition team.
 
-The RoSGhost team is integrated by Alex Gonzalez, Nahomy Sclopis and Alexis Quintero, who represent Colegio San Vicente de Paúl in this Future Engineers competition.
+GodZilla team is integrated by Felipe Zambrano and Jacomo Pinzón, who represent Colegio San Vicente de Paúl in this competition.
 
 ![Regular]()
 
