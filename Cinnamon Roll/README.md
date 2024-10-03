@@ -24,12 +24,12 @@ This section presents all the angles of the robot.
     <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/2_BACK_DUO.jpg" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/DUO/3_LEFT_DUO.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/DUO/4_RIGHT_DUO.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/3_LEFT_DUO.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/4_RIGHT_DUO.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/DUO/5_TOP_DUO.jpg" alt="Top" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/DUO/6_BOTTOM_DUO.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/5_TOP_DUO.jpg" alt="Top" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
@@ -38,15 +38,16 @@ This section presents all the angles of the robot.
 
 <table>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/A/1_FRONT_A.jpg" alt="Front" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/A/2_BACK_A.jpg" alt="Back" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/A/1_FRONT_A.jpg" alt="Front" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/A/2_BACK_A.jpg" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src=https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/A/3_LEFT_A.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/A/4_RIGHT_A.jpg" alt="Right" width="100"/></td>
+    <td><img src=https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/A/3_LEFT_A.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/A/4_RIGHT_A.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="hhttps://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/A/6_BOTTOM_A.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/A/5_TOP_A.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/A/6_BOTTOM_A.jpg" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
