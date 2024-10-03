@@ -29,7 +29,7 @@ This section presents all the angles of the robot.
   </tr>
   <tr>
     <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/5_TOP_DUO.jpg" alt="Top" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/6_BOTTOM_A.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/DUO/6_BOTTOM_DUO.jpg" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
