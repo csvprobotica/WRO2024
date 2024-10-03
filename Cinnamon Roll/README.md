@@ -56,16 +56,16 @@ This section presents all the angles of the robot.
 
 <table>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/B/1_FRONT_B.jpg" alt="Front" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/B/2_BACK_B.jpg" alt="Back" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/1_FRONT_B.jpg" alt="Front" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/2_BACK_B.jpg" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/B/3_LEFT_B.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/B/4_RIGHT_B.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/3_LEFT_B.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/4_RIGHT_B.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/B/5_TOP_B.jpg" alt="Top" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/B/6_BOTTOM_B.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/5_TOP_B.jpg" alt="Top" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/6_BOTTOM_B.jpg" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
