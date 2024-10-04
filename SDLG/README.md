@@ -3,17 +3,17 @@ Team's photos
 
 This directory contains photographs of the competition team.
 
-Cinnamon Rolls team is integrated by Juan Gutierrez, Deysé Carneiro and Nataniel Medina, who represent Colegio San Vicente de Paúl in this competition.
+SDLG team is integrated by Samuel Salinas, Luis Cruz and Luis Diego Battikh, who represent Colegio San Vicente de Paúl in this competition.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/t-photos/1_Cinnamon_Roll_Team.jpg" alt="Texto alternativo" width="500"/>
+  <img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/t-photos/1_SDLG_Team.jpg" alt="Texto alternativo" width="500"/>
 </div>
 
 ## Content
 
-* [`src`](https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/src/) contains code of control software for all components which were programmed to participate in the competition.
-* [`t-photos`](https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/t-photos/) contain photo of the team (an official photo with all team members).
-* [`v-photos`](https://github.com/csvprobotica/WRO2024/tree/main/Cinnamon%20Roll/v-photos/) contains 6 photos of the robot (from every side, from top and bottom).
+* [`src`](https://github.com/csvprobotica/WRO2024/tree/main/SDLG/src) contains code of control software for all components which were programmed to participate in the competition.
+* [`t-photos`](https://github.com/csvprobotica/WRO2024/tree/main/SDLG/t-photos) contain photo of the team (an official photo with all team members).
+* [`v-photos`](https://github.com/csvprobotica/WRO2024/tree/main/SDLG/v-photos) contains 6 photos of the robot (from every side, from top and bottom).
 
 ## Photographs of Both Bobots
 This section presents all the angles of the robot.
