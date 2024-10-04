@@ -43,7 +43,7 @@ Model A
 ![5](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/5_TOP_A.jpg)
 
 ## Bottom
-![6](hhttps://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/6_BOTTOM_A.jpg)
+![6](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/6_BOTTOM_A.jpg)
 
 
 Model B
