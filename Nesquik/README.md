@@ -25,7 +25,7 @@ This section presents all the angles of the robot.
   </tr>
   <tr>
     <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/DUO/3_LEFT_DUO.jpg" alt="Left" width="100"/></td>
-    <td><img src="4https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/DUO/4_RIGHT_DUO.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/DUO/4_RIGHT_DUO.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/DUO/5_TOP_DUO.jpg" alt="Top" width="100"/></td>
