@@ -50,19 +50,19 @@ Model B
 ====
 
 ## Front
-![1](https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/1_FRONT_B.jpg)
+![1](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/1_FRONT_B.jpg)
 
 ## Back
-![2](https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/2_BACK_B.jpg)
+![2](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/2_BACK_B.jpg)
 
 ## Left
-![3](https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/3_LEFT_B.jpg)
+![3](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/3_LEFT_B.jpg)
 
 ## Right
-![4](https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/4_RIGHT_B.jpg)
+![4](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/4_RIGHT_B.jpg)
 
 ## Top
-![5](https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/5_TOP_B.jpg)
+![5](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/5_TOP_B.jpg)
 
 ## Bottom
-![6](https://github.com/csvprobotica/WRO2024/blob/main/Cinnamon%20Roll/v-photos/B/6_BOTTOM_B.jpg)
+![6](https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/6_BOTTOM_B.jpg)
