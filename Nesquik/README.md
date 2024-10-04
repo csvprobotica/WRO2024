@@ -38,16 +38,16 @@ This section presents all the angles of the robot.
 
 <table>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/1_FRONT_A.jpg" alt="Front" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/2_BACK_A.jpg" alt="Back" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/A/1_FRONT_A.jpg" alt="Front" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/A/2_BACK_A.jpg" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/3_LEFT_A.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/4_RIGHT_A.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/A/3_LEFT_A.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/A/4_RIGHT_A.jpg" alt="Right" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/5_TOP_A.jpg" alt="Bottom" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/A/6_BOTTOM_A.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/A/5_TOP_A.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/A/6_BOTTOM_A.jpg" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
@@ -56,10 +56,14 @@ This section presents all the angles of the robot.
 
 <table>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/1_FRONT_B.jpg" alt="Front" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/2_BACK_B.jpg" alt="Back" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/B/1_FRONT_B.jpg" alt="Front" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/B/2_BACK_B.jpg" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/3_LEFT_B.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/SDLG/v-photos/B/4_RIGHT_B.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/B/3_LEFT_B.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/B/4_RIGHT_B.jpg" alt="Right" width="100"/></td>
+  </tr>
+<tr>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/B/5_TOP_B.jpg" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/WRO2024/blob/main/Nesquik/v-photos/B/6_BOTTOM_B.jpg" alt="Right" width="100"/></td>
   </tr>
